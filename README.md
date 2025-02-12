@@ -7,17 +7,17 @@
 ## 👨‍💻 Analytical Project Experience  
 
 ### **Machine Learning (Python, R)**  
-- https://github.com/YuxinYaoo/Infant-Birth-Weight-Prediction-Model  
-- https://github.com/YuxinYaoo/HR-Analytics
+- [Infant Birth Weight Prediction Model](https://github.com/YuxinYaoo/Infant-Birth-Weight-Prediction-Model)
+- [HR Analytics](https://github.com/YuxinYaoo/HR-Analytics)
 
 ### **Time Series Forecasting**  
-- https://github.com/YuxinYaoo/AAA-Washington-Case
+- [AAA Washington Case](https://github.com/YuxinYaoo/AAA-Washington-Case)
 
 ### **Customer Analytics**  
-https://github.com/YuxinYaoo/Customer-Segmentation
+- [Customer Segmentation](https://github.com/YuxinYaoo/Customer-Segmentation)
 
 ### **Web Scraping**  
-- https://github.com/YuxinYaoo/Los-Angeles-County-Information
+- [Los Angeles County Information](https://github.com/YuxinYaoo/Los-Angeles-County-Information)
 
 ### **Data Visualization & Analytics**  
 - **Tableau** https://public.tableau.com/app/profile/cindy.yao7501/vizzes  
