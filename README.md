@@ -1,5 +1,5 @@
 # Yuxin (Cindy) Yao
-### Hi there! 👋 I'm Cindy
+### Hi there! 👋
 
 💡 Data Scientist | Analytics Enthusiast | Bachelor's in Accounting
 
